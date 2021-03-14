@@ -1,0 +1,13 @@
+# Links from First Meetup
+
+https://github.com/bu3nAmigue/pocket-json-ops/blob/master/soup.py
+
+https://colab.research.google.com/drive/1EZ8fQv23-m9fr9NrgS69UiN4EtC0kOUg?usp=sharing
+
+https://hydra-meetup-4.glitch.me/
+
+https://colab.research.google.com/drive/1qnjvcZ6_5roAz5KeXqophcAxy0CilR5w?usp=sharing
+
+https://crashserver.fr/tutorial-how-to-connect-external-fx-pedals-in-with-foxdot/
+
+https://jukebox.openai.com/
